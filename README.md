@@ -1,6 +1,8 @@
-# flutter_learn
+# Travel App
 
-A new Flutter application.
+
+
+A new Flutter application. (learning)
 
 ## Getting Started
 
