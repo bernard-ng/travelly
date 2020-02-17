@@ -1,5 +1,5 @@
 # Travel App
-
+![frontend](https://github.com/bernard-ng/flutter-travel-app/blob/master/.github/travel_app.png "Frontend")
 
 
 A new Flutter application. (learning)
